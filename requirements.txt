@@ -1,0 +1,4 @@
+Django==2.0.3
+pytz==2018.3
+reversion==0.2
+toml==0.9.4
